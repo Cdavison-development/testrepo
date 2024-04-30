@@ -73,6 +73,7 @@ dependencies:
   - yaml=0.2.5=he774522_0
   - zeromq=4.3.5=hd77b12b_0
   - zlib=1.2.13=h8cc25b3_0
+  - jupyter-panel-proxy
   - pip:
       - affine==2.4.0
       - argon2-cffi==23.1.0
@@ -196,5 +197,5 @@ dependencies:
       - wheel==0.42.0
       - widgetsnbextension==3.6.6
       - xyzservices==2023.10.1
-      - jupyter-panel-proxy
+
 prefix: C:\ProgramData\miniconda3\envs\envs456
