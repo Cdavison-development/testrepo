@@ -1,1 +1,1 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Cdavison-development/testrepo/blob/d99d18cf91de2873ed0e3922943ca5924c98ec58/Untitled.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.ovh2.mybinder.org/user/cdavison-development-testrepo-ov1z95wk/lab/workspaces/auto-4/tree/Untitled.ipynb)
